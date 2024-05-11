@@ -5,7 +5,7 @@
 | Course | Status |
 | --- | --- |
 | Systematic Program Design | ✅ |
-| Programming Languages, Part A | - |
+| Programming Languages, Part A | ✅ |
 | Programming Languages, Part B | - |
 | Programming Languages, Part C | - |
 | Object-Oriented D | - |
