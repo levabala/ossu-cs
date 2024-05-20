@@ -6,7 +6,7 @@
 | --- | --- |
 | Systematic Program Design | ✅ |
 | Programming Languages, Part A | ✅ |
-| Programming Languages, Part B | - |
+| Programming Languages, Part B | ✅ |
 | Programming Languages, Part C | - |
 | Object-Oriented D | - |
 | Design P | - |
